@@ -1,0 +1,4 @@
+# commit only the .tex and .pdf
+*.aux
+*.dvi
+*.log
