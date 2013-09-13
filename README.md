@@ -1,7 +1,7 @@
 Simple Latex Resume
 ===================
 
-To compile the tex to pdf
+To compile the tex to pdf:
 	
 	latex filename.tex
 	dvipdf filename.dvi
