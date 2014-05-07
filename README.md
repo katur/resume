@@ -2,7 +2,7 @@ Simple Latex Resume
 ===================
 
 To compile the tex to pdf:
-	
-	latex filename.tex
-	dvipdf filename.dvi
-	open filename.pdf
+
+	latex erickson_resume.tex
+	dvipdf erickson_resume.dvi
+	open erickson_resume.pdf
