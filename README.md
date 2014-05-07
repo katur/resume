@@ -1,4 +1,4 @@
-Simple Latex Resume
+Simple LaTeX resume
 ===================
 
 To compile the tex to pdf:
